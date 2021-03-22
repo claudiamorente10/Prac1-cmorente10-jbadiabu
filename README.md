@@ -1,2 +1,5 @@
-# Prac1-cmorente10-jbadiabu
-Pràctica 1 - Web Scraping
+# Pràctica 1 - Web Scraping
+Equip de treball format per:
+
+* Clàudia Morente (*cmorente10*)
+* Josep Badia (*jbadiabu*)
